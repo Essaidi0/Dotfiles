@@ -1,0 +1,9 @@
+# Ignore secrets
+*.env
+*.secret
+*.key
+*.log
+
+# Ignore large/cache files
+*.cache
+*.swp
